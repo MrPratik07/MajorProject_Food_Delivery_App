@@ -36,6 +36,14 @@
     width: 15em;
 }
 
+#email{
+    margin-bottom: 50px;
+}
+
+#hear-from-us{
+    margin-top: 40px;
+}
+
 #send{
     padding: 7px;
     width: 5em;
@@ -44,6 +52,7 @@
     background-color: rgb(199, 199, 75);
     border: none;
     transition: transform .5s;
+    cursor: pointer;
 }
 #send :hover{
     transform: scale(20);

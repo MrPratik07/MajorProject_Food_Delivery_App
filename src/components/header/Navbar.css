@@ -1,7 +1,60 @@
 .nav-bar{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
     background-color: #e84545
     
+}
+
+.main-navbar{
+    display: flex;
+}
+
+#cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cartlogo{
+    margin-left: 5px;
+}
+
+.content{
+    margin-left: 50px;
+    font-size: 20px bold;
+    font-weight: 500;
+    cursor: pointer;
+}
+.content:hover{
+    text-decoration: overline;
+}
+
+.right-navbar{
+    display: flex;
+    margin-right: 30px;
+}
+
+#logout{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#logout:hover{
+    font-size: 20px bold;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.main-logo{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+}
+
+#foodie{
+    font-size: 20px;
+    font-style: italic;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+    font-family: 'Anton', sans-serif;
 }

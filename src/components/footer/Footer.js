@@ -29,7 +29,7 @@ const Footer=() =>{
             <input  id="enter-email" placeholder="Enter email"/>
             <button id="send">Send</button>
           </div>
-          <h3 id="email">Email : Foodie@gmail.com</h3>
+          <h3 id="email">Email : foodie.express@gmail.com</h3>
         </div>
       </footer>
     )
