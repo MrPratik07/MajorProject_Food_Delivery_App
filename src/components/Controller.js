@@ -1,9 +1,9 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import HomePage from './HomePage';
-import OfferPage from './OfferPage';
-import HistoryPage from './HistoryPage';
-import CartPage from './CartPage';
+import HomePage from './home/HomePage';
+import OfferPage from './offer/OfferPage';
+import HistoryPage from './history/HistoryPage';
+import CartPage from './cartpage/CartPage';
 const Controller = () =>{
     return(
         <Router>
