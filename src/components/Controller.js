@@ -9,9 +9,9 @@ const Controller = () =>{
         <Router>
             <Switch>
                 <Route exact path="/" render={(props)=> <HomePage {...props}/>}/>
-                <Route exact path="/offers" render={(props)=> <OfferPage {...props}/>}/>
-                <Route exact path="/history" render={(props)=> <HistoryPage {...props}/>}/>
-                <Route exact path="/cart" render={(props)=> <CartPage {...props}/>}/>
+                <Route path="/offers" render={(props)=> <OfferPage {...props}/>}/>
+                <Route path="/history" render={(props)=> <HistoryPage {...props}/>}/>
+                <Route path="/cart" render={(props)=> <CartPage {...props}/>}/>
             </Switch>
         </Router>
     )

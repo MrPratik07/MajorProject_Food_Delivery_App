@@ -1,0 +1,54 @@
+.food-card{
+    background-color: antiquewhite;
+    border: 2px solid;
+    height: 5cm;
+    width: 7cm;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.food-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:  30px;
+}
+
+#food-item-logo{
+    font-size: 70px;
+}
+
+.food-title{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#food-cost{
+    margin-top: 1px;
+}
+
+.food-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.add-to-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#addfoodtocart{
+    padding: 8px;
+    margin-bottom: 5px;
+    border: none;
+    background-color: #e84545;
+    border-radius: 2px;
+
+}
