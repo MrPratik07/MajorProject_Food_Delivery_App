@@ -1,6 +1,7 @@
 .mainpage-container{
     width: 100%;
     height: 100%;
+
 }
 
 .input-search{
@@ -29,5 +30,14 @@
 
 .body{
     height: 90vh;
+    
+}
+
+
+.food-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 

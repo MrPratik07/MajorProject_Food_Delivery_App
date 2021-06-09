@@ -12,7 +12,14 @@ const HomePage = () => {
       <input id="search-food" placeholder="Search food item"/>
       <button id="search-food-button">Search</button>
       </div>
+      <div className="food-card-container">
       <Foodcard/>
+      <Foodcard/>
+      <Foodcard/>
+      <Foodcard/>
+      <Foodcard/>
+      <Foodcard/>
+      </div>
       </div>
       
     </div>
