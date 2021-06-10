@@ -2,11 +2,10 @@ import React from 'react';
 import '../history/HistoryPage.css'
 const HistoryPage = () =>{
     return(
-        <>
+        <div className="history">
         <div className="history-header">
         <h1>Your Order History</h1>
         </div>
-        
         <div className="history-container">
         <div className="order-container">
         <div className="left-details">
@@ -30,7 +29,7 @@ const HistoryPage = () =>{
         </div>
         </div>
         </div>
-       </> 
+       </div> 
     )
 }
 

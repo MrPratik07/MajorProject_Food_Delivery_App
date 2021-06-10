@@ -1,9 +1,13 @@
+.history{
+    height: 90vh;
+}
+
+
 .history-container{
     display : flex;
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    height: 90vh;
     padding-top: 5px;
 }
 
