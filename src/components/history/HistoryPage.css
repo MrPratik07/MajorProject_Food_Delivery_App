@@ -1,0 +1,29 @@
+.history-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    height: 90vh;
+}
+
+.order-container{
+    display: flex;
+    justify-content: space-between;
+    width: 20cm;
+    height: 4cm;
+    border: 2px solid;
+}
+
+.left-details{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    margin-left: 5px;
+
+}
+
+.right-details{
+    display: flex;
+    justify-content: right;
+    flex-direction: column;
+    margin-right: 5px;
+}
