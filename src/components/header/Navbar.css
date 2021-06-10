@@ -42,7 +42,7 @@
 
 #logout:hover{
     font-size: 20px bold;
-    text-decoration: underline;
+    text-decoration: overline;
     cursor: pointer;
 }
 

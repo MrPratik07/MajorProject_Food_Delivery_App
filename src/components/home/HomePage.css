@@ -25,12 +25,13 @@
     border: none;
     border-radius: 5px;
     background-color: rgb(199, 199, 75);
-
+    transition: transform 0.5s;
+    font-weight: bold;
 }
+
 
 .body{
     height: 90vh;
-    
 }
 
 

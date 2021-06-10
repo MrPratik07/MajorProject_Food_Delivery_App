@@ -20,9 +20,9 @@ const Navbar=() =>{
         <p className="content" onClick={() => redirectTo("/history")}>Order History</p>
         <p className="content" id="cart" onClick={() => redirectTo("/cart")}>Cart <FaShoppingBag id="cartlogo"/></p>
         </div>
-        <div className="main-logo"> 
+        {/* <div className="main-logo"> 
         <p id="foodie">Foodie Express</p>
-        </div>
+        </div> */}
         <div className="right-navbar">
        <p id="logout" onClick={()=>console.log("Logout from App")}>Logout</p>
         </div>
