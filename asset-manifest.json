@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MajorProject_Food_Delivery_App/static/css/main.6d49624f.chunk.css",
+    "main.js": "/MajorProject_Food_Delivery_App/static/js/main.dec42e10.chunk.js",
+    "main.js.map": "/MajorProject_Food_Delivery_App/static/js/main.dec42e10.chunk.js.map",
+    "runtime-main.js": "/MajorProject_Food_Delivery_App/static/js/runtime-main.b6c640a7.js",
+    "runtime-main.js.map": "/MajorProject_Food_Delivery_App/static/js/runtime-main.b6c640a7.js.map",
+    "static/js/2.86fea773.chunk.js": "/MajorProject_Food_Delivery_App/static/js/2.86fea773.chunk.js",
+    "static/js/2.86fea773.chunk.js.map": "/MajorProject_Food_Delivery_App/static/js/2.86fea773.chunk.js.map",
+    "static/js/3.3982c239.chunk.js": "/MajorProject_Food_Delivery_App/static/js/3.3982c239.chunk.js",
+    "static/js/3.3982c239.chunk.js.map": "/MajorProject_Food_Delivery_App/static/js/3.3982c239.chunk.js.map",
+    "index.html": "/MajorProject_Food_Delivery_App/index.html",
+    "static/css/main.6d49624f.chunk.css.map": "/MajorProject_Food_Delivery_App/static/css/main.6d49624f.chunk.css.map",
+    "static/js/2.86fea773.chunk.js.LICENSE.txt": "/MajorProject_Food_Delivery_App/static/js/2.86fea773.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c640a7.js",
+    "static/js/2.86fea773.chunk.js",
+    "static/css/main.6d49624f.chunk.css",
+    "static/js/main.dec42e10.chunk.js"
+  ]
+}
